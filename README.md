@@ -12,3 +12,7 @@
   - the maximum length for messages is 2000, edit "szBuffer" if you want to send a longer message
   - suooprts ipv4 only
   - build the program by command : **gcc client.c -o client -lm**
+
+# Demo
+  - Please get the video from the following link created by google drive:
+  - https://drive.google.com/drive/folders/1F2tkRWonhny9kQDnjW_E5TPhlWYK72z5?usp=sharing
